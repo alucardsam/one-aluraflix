@@ -1,0 +1,11 @@
+:root {
+  --border: #2271D1;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+  background: rgba(0, 0, 0, 0.9);
+}
